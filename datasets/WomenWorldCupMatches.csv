@@ -1,0 +1,285 @@
+Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Winner Team,Win conditions,Attendance,Referee,MatchID
+1991,16-Nov-91,Groups,Tianhe Stadium,Guangzhou,China,4,0,Norway,China,,65000,Salvador Imperatore,1
+1991,17-Nov-91,Groups,Tianhe Stadium,Guangzhou,Denmark,3,0,New Zealand,Denmark,,14000,Omer Yengo,2
+1991,19-Nov-91,Groups,Guangdong Provincial Stadium,Guangzhou,Norway,4,0,New Zealand,Norway,,12000,Salvador Imperatore,3
+1991,19-Nov-91,Groups,Guangdong Provincial Stadium,Guangzhou,China,2,2,Denmark,Draw,,27000,Vassilios Nikakis,4
+1991,21-Nov-91,Groups,New Plaza Stadium,Foshan,China,4,1,New Zealand,China,,14000,Raja Shrestha Gyanu,5
+1991,21-Nov-91,Groups,Ying Tung Stadium,Guangzhou,Norway,2,1,Denmark,Norway,,15500,Vadim Zhuk,6
+1991,17-Nov-91,Groups,New Plaza Stadium,Foshan,Japan,0,1,Brazil,Brazil,,14000,Raja Shrestha Gyanu,7
+1991,17-Nov-91,Groups,Ying Tung Stadium,Guangzhou,Sweden,2,3,United States,United States,,14000,John Toro Rendon,8
+1991,19-Nov-91,Groups,New Plaza Stadium,Foshan,Japan,0,8,Sweden,Sweden,,14000,Raja Shrestha Gyanu,9
+1991,19-Nov-91,Groups,Ying Tung Stadium,Guangzhou,Brazil,0,5,United States,United States,,15500,Vadim Zhuk,10
+1991,21-Nov-91,Groups,New Plaza Stadium,Foshan,Japan,0,3,United States,United States,,14000,John Toro Rendon,11
+1991,21-Nov-91,Groups,Ying Tung Stadium,Guangzhou,Brazil,0,2,Sweden,Sweden,,12000,Lu Jun,12
+1991,17-Nov-91,Groups,Jiangmen Stadium,Jiangmen,Germany,4,0,Nigeria,Germany,,14000,Rafael Rodriguez Medina,13
+1991,17-Nov-91,Groups,Jiangmen Stadium,Jiangmen,Chinese Taipei,0,5,Italy,Italy,,11000,Fethi Boucetta,14
+1991,19-Nov-91,Groups,Zhongshan Stadium,Zhongshan,Italy,1,0,Nigeria,Italy,,12000,Jim McCluskey,15
+1991,19-Nov-91,Groups,Zhongshan Stadium,Zhongshan,Chinese Taipei,0,3,Germany,Germany,,10000,Fethi Boucetta,16
+1991,21-Nov-91,Groups,Jiangmen Stadium,Jiangmen,Chinese Taipei,2,0,Nigeria,Chinese Taipei,,14000,Rafael Rodriguez Medina,17
+1991,21-Nov-91,Groups,Zhongshan Stadium,Zhongshan,Italy,0,2,Germany,Germany,,12000,Jim McCluskey,18
+1991,24-Nov-91,Quarter-finals,Zhongshan Stadium,Zhongshan,Denmark,1,2,Germany,Germany,Extra Time,12000,Vassilios Nikakis,19
+1991,24-Nov-91,Quarter-finals,Tianhe Stadium,Guangzhou,China,0,1,Sweden,Sweden,,55000,John Toro Rendon,20
+1991,24-Nov-91,Quarter-finals,Jiangmen Stadium,Jiangmen,Norway,3,2,Italy,Norway,Extra Time,13000,Rafael Rodriguez Medina,21
+1991,24-Nov-91,Quarter-finals,New Plaza Stadium,Foshan,United States,7,0,Chinese Taipei,United States,,12000,Omer Yengo,22
+1991,27-Nov-91,Semi-finals,Ying Tung Stadium,Guangzhou,Sweden,1,4,Norway,Norway,,16000,Jim McCluskey,23
+1991,27-Nov-91,Semi-finals,Guangdong Provincial Stadium,Guangzhou,Germany,2,5,United States,United States,,15000,Salvador Imperatore,24
+1991,29-Nov-91,Third Place,Guangdong Provincial Stadium,Guangzhou,Sweden,4,0,Germany,Sweden,,20000,Claudia Vasconcelos,25
+1991,30-Nov-91,Final,Tianhe Stadium,Guangzhou,Norway,1,2,United States,United States,,63000,Vadim Zhuk,26
+1995,5-Jun-95,Groups,Tingvalla IP,Karlstad,Germany,1,0,Japan,Germany,,3824,Petros Mathabela,27
+1995,5-Jun-95,Groups,Olympia,Helsingborg,Sweden,0,1,Brazil,Brazil,,14500,Sonia Denoncourt,28
+1995,7-Jun-95,Groups,Olympia,Helsingborg,Sweden,3,2,Germany,Sweden,,5855,Linda May Black,29
+1995,7-Jun-95,Groups,Tingvalla IP,Karlstad,Brazil,1,2,Japan,Japan,,2286,Catherine Leann Hepburn,30
+1995,9-Jun-95,Groups,Arosvallen,Vasteras,Sweden,2,0,Japan,Sweden,,7811,Petros Mathabela,31
+1995,9-Jun-95,Groups,Tingvalla IP,Karlstad,Brazil,1,6,Germany,Germany,,3203,Alain Hamer,32
+1995,6-Jun-95,Groups,Tingvalla IP,Karlstad,Norway,8,0,Nigeria,Norway,,4344,Alain Hamer,33
+1995,6-Jun-95,Groups,Olympia,Helsingborg,England,3,2,Canada,England,,655,Eva Odlund,34
+1995,8-Jun-95,Groups,Tingvalla IP,Karlstad,Norway,2,0,England,Norway,,5520,Eduardo Gamboa,35
+1995,8-Jun-95,Groups,Olympia,Helsingborg,Nigeria,3,3,Canada,Draw,,250,Pirom Un-prasert,36
+1995,10-Jun-95,Groups,Stromvallen,Gavle,Norway,7,0,Canada,Norway,,2715,Maria Edilene Siqueira,37
+1995,10-Jun-95,Groups,Tingvalla IP,Karlstad,Nigeria,2,3,England,England,,1843,Ingrid Jonsson,38
+1995,6-Jun-95,Groups,Stromvallen,Gavle,United States,3,3,China,Draw,,4635,Ingrid Jonsson,39
+1995,6-Jun-95,Groups,Arosvallen,Vasteras,Denmark,5,0,Australia,Denmark,,1500,Bente Skogvang,40
+1995,8-Jun-95,Groups,Stromvallen,Gavle,United States,2,0,Denmark,United States,,2704,Engage Camara,41
+1995,8-Jun-95,Groups,Arosvallen,Vasteras,China,4,2,Australia,China,,1500,Maria Edilene Siqueira,42
+1995,10-Jun-95,Groups,Olympia,Helsingborg,United States,4,1,Australia,United States,,1105,Pirom Un-prasert,43
+1995,10-Jun-95,Groups,Arosvallen,Vasteras,China,3,1,Denmark,China,,1619,Eduardo Gamboa,44
+1995,13-Jun-95,Quarter-finals,Stromvallen,Gavle,Japan,0,4,United States,United States,,3756,Eduardo Gamboa,45
+1995,13-Jun-95,Quarter-finals,Tingvalla IP,Karlstad,Norway,3,1,Denmark,Norway,,4655,Pirom Un-prasert,46
+1995,13-Jun-95,Quarter-finals,Arosvallen,Vasteras,Germany,3,0,England,Germany,,2317,Bente Skogvang,47
+1995,13-Jun-95,Quarter-finals,Olympia,Helsingborg,Sweden,1,1,China,China,Penalties,7537,Sonia Denoncourt,48
+1995,15-Jun-95,Semi-finals,Arosvallen,Vasteras,United States,0,1,Norway,Norway,,2893,Alain Hamer,49
+1995,15-Jun-95,Semi-finals,Olympia,Helsingborg,Germany,1,0,China,Germany,,3693,Petros Mathabela,50
+1995,17-Jun-95,Third Place,Stromvallen,Gavle,China,0,2,United States,United States,,4335,Sonia Denoncourt,51
+1995,18-Jun-95,Final,Rasunda Stadium,Solna,Germany,0,2,Norway,Norway,,17158,Ingrid Jonsson,52
+1999,19-Jun-99,Groups,Giants Stadium,East Rutherford,United States,3,0,Denmark,United States,,78972,Sonia Denoncourt,53
+1999,20-Jun-99,Groups,Rose Bowl,Pasadena,North Korea,1,2,Nigeria,Nigeria,,17100,Katriina Elovirta,54
+1999,24-Jun-99,Groups,Soldier Field,Chicago,United States,7,1,Nigeria,United States,,65080,Nicole Petignat,55
+1999,24-Jun-99,Groups,Civic Stadium,Portland,North Korea,3,1,Denmark,North Korea,,20129,Martha Liliana Pardo,56
+1999,27-Jun-99,Groups,Jack Kent Cooke Stadium,Landover,Nigeria,2,0,Denmark,Nigeria,,22109,Maria Edilene Siqueira,57
+1999,27-Jun-99,Groups,Foxboro Stadium,Foxborough,United States,3,0,North Korea,United States,,50484,Katriina Elovirta,58
+1999,19-Jun-99,Groups,Giants Stadium,East Rutherford,Brazil,7,1,Mexico,Brazil,,78972,Nicole Petignat,59
+1999,20-Jun-99,Groups,Rose Bowl,Pasadena,Germany,1,1,Italy,Draw,,17100,Bola Elizabeth Abidoye,60
+1999,24-Jun-99,Groups,Soldier Field,Chicago,Brazil,2,0,Italy,Brazil,,65080,Gitte Nielsen,61
+1999,24-Jun-99,Groups,Civic Stadium,Portland,Germany,6,0,Mexico,Germany,,20129,Im Eun-ju,62
+1999,27-Jun-99,Groups,Jack Kent Cooke Stadium,Landover,Germany,3,3,Brazil,Draw,,22109,Im Eun-ju,63
+1999,27-Jun-99,Groups,Foxboro Stadium,Foxborough,Mexico,0,2,Italy,Italy,,50484,Bola Elizabeth Abidoye,64
+1999,19-Jun-99,Groups,Spartan Stadium,San Jose,Japan,1,1,Canada,Draw,,23298,Maria Edilene Siqueira,65
+1999,20-Jun-99,Groups,Foxboro Stadium,Foxborough,Norway,2,1,Russia,Norway,,14873,Zuo Xiudi,66
+1999,23-Jun-99,Groups,Jack Kent Cooke Stadium,Landover,Norway,7,1,Canada,Norway,,16448,Tammy Ogston,67
+1999,23-Jun-99,Groups,Civic Stadium,Portland,Japan,0,5,Russia,Russia,,17668,Sandra Hunt,68
+1999,26-Jun-99,Groups,Giants Stadium,East Rutherford,Canada,1,4,Russia,Russia,,29401,Zuo Xiudi,69
+1999,26-Jun-99,Groups,Soldier Field,Chicago,Norway,4,0,Japan,Norway,,34256,Marisela Contreras,70
+1999,19-Jun-99,Groups,Spartan Stadium,San Jose,China,2,1,Sweden,China,,23298,Virginia Tovar,71
+1999,20-Jun-99,Groups,Foxboro Stadium,Foxborough,Australia,1,1,Ghana,Draw,,14873,Kari Seitz,72
+1999,23-Jun-99,Groups,Jack Kent Cooke Stadium,Landover,Australia,1,3,Sweden,Sweden,,16448,Fatou Gaye,73
+1999,23-Jun-99,Groups,Civic Stadium,Portland,China,7,0,Ghana,China,,17668,Elke Günthner,74
+1999,26-Jun-99,Groups,Giants Stadium,East Rutherford,China,3,1,Australia,China,,29401,Sandra Hunt,75
+1999,26-Jun-99,Groups,Soldier Field,Chicago,Ghana,0,2,Sweden,Sweden,,34256,Sonia Denoncourt,76
+1999,30-Jun-99,Quarter-finals,Spartan Stadium,San Jose,China,2,0,Russia,China,,21441,Nicole Petignat,77
+1999,30-Jun-99,Quarter-finals,Spartan Stadium,San Jose,Norway,3,1,Sweden,Norway,,21441,Im Eun-ju,78
+1999,1-Jul-99,Quarter-finals,Jack Kent Cooke Stadium,Landover,United States,3,2,Germany,United States,,54642,Martha Liliana Pardo,79
+1999,1-Jul-99,Quarter-finals,Jack Kent Cooke Stadium,Landover,Brazil,4,3,Nigeria,Brazil,Extra Time,54642,Virginia Tovar,80
+1999,4-Jul-99,Semi-finals,Stanford Stadium,Stanford,United States,2,0,Brazil,United States,,73123,Katriina Elovirta,81
+1999,4-Jul-99,Semi-finals,Foxboro Stadium,Foxborough,Norway,0,5,China,China,,28986,Sonia Denoncourt,82
+1999,10-Jul-99,Third Place,Rose Bowl,Pasadena,Brazil,0,0,Norway,Brazil,Penalties,90185,Im Eun-ju,83
+1999,10-Jul-99,Final,Rose Bowl,Pasadena,United States,0,0,China,United States,Penalties,90185,Nicole Petignat,84
+2003,20-Sep-03,Groups,Lincoln Financial Field,Philadelphia,Nigeria,0,3,North Korea,North Korea,,24347,Nicole Petignat,85
+2003,21-Sep-03,Groups,Robert F. Kennedy Memorial Stadium,"Washington, D.C.",United States,3,1,Sweden,United States,,34144,Zhang Dongqing,86
+2003,25-Sep-03,Groups,Lincoln Financial Field,Philadelphia,Sweden,1,0,North Korea,Sweden,,31553,Tammy Ogston,87
+2003,25-Sep-03,Groups,Lincoln Financial Field,Philadelphia,United States,5,0,Nigeria,United States,,31553,Florencia Romano,88
+2003,28-Sep-03,Groups,Columbus Crew Stadium,Columbus,Sweden,3,0,Nigeria,Sweden,,22282,Sonia Denoncourt,89
+2003,28-Sep-03,Groups,Columbus Crew Stadium,Columbus,North Korea,0,3,United States,United States,,22282,Sueli Tortura,90
+2003,20-Sep-03,Groups,Lincoln Financial Field,Philadelphia,Norway,2,0,France,Norway,,24347,Kari Seitz,91
+2003,21-Sep-03,Groups,Robert F. Kennedy Memorial Stadium,"Washington, D.C.",Brazil,3,0,South Korea,Brazil,,34144,Tammy Ogston,92
+2003,24-Sep-03,Groups,Robert F. Kennedy Memorial Stadium,"Washington, D.C.",Norway,1,4,Brazil,Brazil,,16316,Xonam Agboyi,93
+2003,24-Sep-03,Groups,Robert F. Kennedy Memorial Stadium,"Washington, D.C.",France,1,0,South Korea,South Korea,,16316,Zhang Dongqing,94
+2003,27-Sep-03,Groups,Gillette Stadium,Foxborough,South Korea,1,7,Norway,Norway,,14356,Tammy Ogston,95
+2003,27-Sep-03,Groups,Robert F. Kennedy Memorial Stadium,"Washington, D.C.",France,1,1,Brazil,Draw,,17618,Cristina Ionescu,96
+2003,20-Sep-03,Groups,Columbus Crew Stadium,Columbus,Germany,4,1,Canada,Germany,,16409,Im Eun-ju,97
+2003,20-Sep-03,Groups,Columbus Crew Stadium,Columbus,Japan,6,0,Argentina,Japan,,16409,Katriina Elovirta,98
+2003,24-Sep-03,Groups,Columbus Crew Stadium,Columbus,Germany,3,0,Japan,Germany,,15529,Sueli Tortura,99
+2003,24-Sep-03,Groups,Columbus Crew Stadium,Columbus,Canada,3,0,Argentina,Canada,,15529,Nicole Petignat,100
+2003,27-Sep-03,Groups,Gillette Stadium,Foxborough,Canada,3,1,Japan,Canada,,14356,Im Eun-ju,101
+2003,27-Sep-03,Groups,Robert F. Kennedy Memorial Stadium,"Washington, D.C.",Argentina,1,6,Germany,Germany,,17618,Bola Elizabeth Abidoye,102
+2003,21-Sep-03,Groups,Home Depot Center,Carson,Australia,1,2,Russia,Russia,,15239,Bola Elizabeth Abidoye,103
+2003,21-Sep-03,Groups,Home Depot Center,Carson,China,1,0,Ghana,China,,15239,Sonia Denoncourt,104
+2003,25-Sep-03,Groups,Home Depot Center,Carson,Ghana,0,3,Russia,Russia,,13929,Kari Seitz,105
+2003,25-Sep-03,Groups,Home Depot Center,Carson,China,1,1,Australia,Draw,,13929,Katriina Elovirta,106
+2003,28-Sep-03,Groups,PGE Park,Portland,Ghana,2,1,Australia,Ghana,,19132,Xonam Agboyi,107
+2003,28-Sep-03,Groups,PGE Park,Portland,China,1,0,Russia,China,,19132,Florencia Romano,108
+2003,1-Oct-03,Quarter-finals,Gillette Stadium,Foxborough,Brazil,1,2,Sweden,Sweden,,25103,Zhang Dongqing,109
+2003,1-Oct-03,Quarter-finals,Gillette Stadium,Foxborough,United States,1,0,Norway,United States,,25103,Nicole Petignat,110
+2003,2-Oct-03,Quarter-finals,PGE Park,Portland,Germany,7,1,Russia,Germany,,20012,Im Eun-ju,111
+2003,2-Oct-03,Quarter-finals,PGE Park,Portland,China,0,1,Canada,Canada,,20012,Kari Seitz,112
+2003,5-Oct-03,Semi-finals,PGE Park,Portland,United States,0,3,Germany,Germany,,27623,Sonia Denoncourt,113
+2003,5-Oct-03,Semi-finals,PGE Park,Portland,Sweden,2,1,Canada,Sweden,,27623,Katriina Elovirta,114
+2003,11-Oct-03,Third Place,Home Depot Center,Carson,United States,3,1,Canada,United States,,25253,Tammy Ogston,115
+2003,12-Oct-03,Final,Home Depot Center,Carson,Germany,2,1,Sweden,Germany,,26137,Cristina Ionescu,116
+2007,10-Sep-07,Groups,Hongkou Football Stadium,Shanghai,Germany,11,0,Argentina,Germany,,28098,Tammy Ogston,117
+2007,11-Sep-07,Groups,Hongkou Football Stadium,Shanghai,Japan,2,2,England,Draw,,27146,Kari Seitz,118
+2007,14-Sep-07,Groups,Hongkou Football Stadium,Shanghai,Argentina,0,1,Japan,Japan,,27730,Dagmar Damkova,119
+2007,14-Sep-07,Groups,Hongkou Football Stadium,Shanghai,England,0,0,Germany,Draw,,27730,Jenny Palmqvist,120
+2007,17-Sep-07,Groups,Yellow Dragon Stadium,Hangzhou,Germany,2,0,Japan,Germany,,39817,Adriana Correa,121
+2007,17-Sep-07,Groups,Chengdu Sports Centre Stadium,Chengdu,England,6,1,Argentina,England,,30730,Dianne Ferreira-James,122
+2007,11-Sep-07,Groups,Chengdu Sports Centre Stadium,Chengdu,United States,2,2,North Korea,Draw,,35100,Nicole Petignat,123
+2007,11-Sep-07,Groups,Chengdu Sports Centre Stadium,Chengdu,Nigeria,1,1,Sweden,Draw,,35100,Niu Huijun,124
+2007,14-Sep-07,Groups,Chengdu Sports Centre Stadium,Chengdu,Sweden,0,2,United States,United States,,35600,GyOngyi Gaal,125
+2007,14-Sep-07,Groups,Chengdu Sports Centre Stadium,Chengdu,North Korea,2,0,Nigeria,North Korea,,35600,Tammy Ogston,126
+2007,18-Sep-07,Groups,Hongkou Football Stadium,Shanghai,Nigeria,0,1,United States,United States,,6100,Mayumi Oiwa,127
+2007,18-Sep-07,Groups,Tianjin Olympic Center Stadium,Tianjin,North Korea,1,2,Sweden,Sweden,,33196,Christine Beck,128
+2007,12-Sep-07,Groups,Yellow Dragon Stadium,Hangzhou,Ghana,1,4,Australia,Australia,,30752,Adriana Correa,129
+2007,12-Sep-07,Groups,Yellow Dragon Stadium,Hangzhou,Norway,2,1,Canada,Norway,,30752,Christine Beck,130
+2007,15-Sep-07,Groups,Yellow Dragon Stadium,Hangzhou,Canada,4,0,Ghana,Canada,,33835,Nicole Petignat,131
+2007,15-Sep-07,Groups,Yellow Dragon Stadium,Hangzhou,Australia,1,1,Norway,Draw,,33835,Niu Huijun,132
+2007,20-Sep-07,Groups,Yellow Dragon Stadium,Hangzhou,Norway,7,2,Ghana,Norway,,43817,Jennifer Bennett,133
+2007,20-Sep-07,Groups,Chengdu Sports Centre Stadium,Chengdu,Australia,2,2,Canada,Draw,,29300,GyOngyi Gaal,134
+2007,12-Sep-07,Groups,Wuhan Sports Centre Stadium,Wuhan,New Zealand,0,5,Brazil,Brazil,,50800,Pannipar Kamnueng,135
+2007,12-Sep-07,Groups,Wuhan Sports Centre Stadium,Wuhan,China,3,2,Denmark,China,,50800,Dianne Ferreira-James,136
+2007,15-Sep-07,Groups,Wuhan Sports Centre Stadium,Wuhan,Denmark,2,0,New Zealand,Denmark,,54000,Mayumi Oiwa,137
+2007,15-Sep-07,Groups,Wuhan Sports Centre Stadium,Wuhan,Brazil,4,0,China,Brazil,,54000,Jennifer Bennett,138
+2007,20-Sep-07,Groups,Tianjin Olympic Center Stadium,Tianjin,China,2,0,New Zealand,China,,55832,Dagmar Damkova,139
+2007,20-Sep-07,Groups,Yellow Dragon Stadium,Hangzhou,Brazil,1,0,Denmark,Brazil,,43817,Kari Seitz,140
+2007,22-Sep-07,Quarter-finals,Wuhan Sports Centre Stadium,Wuhan,Germany,3,0,North Korea,Germany,,37200,Tammy Ogston,141
+2007,22-Sep-07,Quarter-finals,Tianjin Olympic Center Stadium,Tianjin,United States,3,0,England,United States,,29586,Jenny Palmqvist,142
+2007,23-Sep-07,Quarter-finals,Wuhan Sports Centre Stadium,Wuhan,Norway,1,0,China,Norway,,52000,GyOngyi Gaal,143
+2007,23-Sep-07,Quarter-finals,Tianjin Olympic Center Stadium,Tianjin,Brazil,3,2,Australia,Brazil,,35061,Christine Beck,144
+2007,26-Sep-07,Semi-finals,Tianjin Olympic Center Stadium,Tianjin,Germany,3,0,Norway,Germany,,53819,Dagmar Damkova,145
+2007,27-Sep-07,Semi-finals,Yellow Dragon Stadium,Hangzhou,United States,0,4,Brazil,Brazil,,47818,Nicole Petignat,146
+2007,30-Sep-07,Third Place,Hongkou Football Stadium,hanghai,Norway,1,4,United States,United States,,31000,GyOngyi Gaal,147
+2007,30-Sep-07,Final,Hongkou Football Stadium,Shanghai,Germany,2,0,Brazil,Germany,,31000,Tammy Ogston,148
+2011,26-Jun-11,Groups,Rhein-Neckar-Arena,Sinsheim,Nigeria,0,1,France,France,,25475,Kari Seitz,149
+2011,26-Jun-11,Groups,Olympiastadion,Berlin,Germany,2,1,Canada,Germany,,73680,Jacqui Melksham,150
+2011,30-Jun-11,Groups,Ruhrstadion,Bochum,Canada,0,4,France,France,,16591,Etsuko Fukano,151
+2011,30-Jun-11,Groups,Waldstadion,Frankfurt,Germany,1,0,Nigeria,Germany,,48817,Cha Sung-mi,152
+2011,5-Jul-11,Groups,Borussia-Park,Monchengladbach,France,2,4,Germany,Germany,,45867,Kirsi Heikkinen,153
+2011,5-Jul-11,Groups,Rudolf-Harbig-Stadion,Dresden,Canada,0,1,Nigeria,Nigeria,,13638,Finau Vulivuli,154
+2011,27-Jun-11,Groups,Ruhrstadion,Bochum,Japan,2,1,New Zealand,Japan,,12538,Kirsi Heikkinen,155
+2011,27-Jun-11,Groups,Volkswagen Arena,Wolfsburg,Mexico,1,1,England,Draw,,18702,Silvia Reyes,156
+2011,1-Jul-11,Groups,BayArena,Leverkusen,Japan,4,0,Mexico,Japan,,22291,Christina Pedersen,157
+2011,1-Jul-11,Groups,Rudolf-Harbig-Stadion,Dresden,New Zealand,1,2,England,England,,19110,Therese Neguel,158
+2011,5-Jul-11,Groups,Impuls Arena,Augsburg,England,2,0,Japan,England,,20777,Carol Anne Chenard,159
+2011,5-Jul-11,Groups,Rhein-Neckar-Arena,Sinsheim,New Zealand,2,2,Mexico,Draw,,20451,Jenny Palmqvist,160
+2011,28-Jun-11,Groups,BayArena,Leverkusen,Colombia,0,1,Sweden,Sweden,,21106,Carol Anne Chenard,161
+2011,28-Jun-11,Groups,Rudolf-Harbig-Stadion,Dresden,United States,2,0,North Korea,United States,,21859,Bibiana Steinhaus,162
+2011,2-Jul-11,Groups,Impuls Arena,Augsburg,North Korea,0,1,Sweden,Sweden,,23768,Estela alvarez,163
+2011,2-Jul-11,Groups,Rhein-Neckar-Arena,Sinsheim,United States,3,0,Colombia,United States,,25475,Dagmar Damkova,164
+2011,6-Jul-11,Groups,Volkswagen Arena,Wolfsburg,Sweden,2,1,United States,Sweden,,23468,Etsuko Fukano,165
+2011,6-Jul-11,Groups,Ruhrstadion,Bochum,North Korea,0,0,Colombia,Draw,,7805,Christina Pedersen,166
+2011,29-Jun-11,Groups,Impuls Arena,Augsburg,Norway,1,0,Equatorial Guinea,Norway,,12928,Quetzalli Alvarado,167
+2011,29-Jun-11,Groups,Borussia-Park,Monchengladbach,Brazil,1,0,Australia,Brazil,,27258,Jenny Palmqvist,168
+2011,3-Jul-11,Groups,Ruhrstadion,Bochum,Australia,3,2,Equatorial Guinea,Australia,,15640,GyOngyi Gaal,169
+2011,3-Jul-11,Groups,Volkswagen Arena,Wolfsburg,Brazil,3,0,Norway,Brazil,,26067,Kari Seitz,170
+2011,6-Jul-11,Groups,Waldstadion,Frankfurt,Equatorial Guinea,0,3,Brazil,Brazil,,35859,Bibiana Steinhaus,171
+2011,6-Jul-11,Groups,BayArena,Leverkusen,Australia,2,1,Norway,Australia,,18474,Estela alvarez,172
+2011,9-Jul-11,Quarter-finals,BayArena,Leverkusen,England,1,1,France,France,Penalties,26395,Jenny Palmqvist,173
+2011,9-Jul-11,Quarter-finals,Volkswagen Arena,Wolfsburg,Germany,0,1,Japan,Japan,Extra Time,26067,Quetzalli Alvarado,174
+2011,10-Jul-11,Quarter-finals,Impuls Arena,Augsburg,Sweden,3,1,Australia,Sweden,,24605,Silvia Reyes,175
+2011,10-Jul-11,Quarter-finals,Rudolf-Harbig-Stadion,Dresden,Brazil,2,2,United States,United States,Penalties,25598,Jacqui Melksham,176
+2011,13-Jul-11,Semi-finals,Borussia-Park,Monchengladbach,France,1,3,United States,United States,,25676,Kirsi Heikkinen,177
+2011,13-Jul-11,Semi-finals,Waldstadion,Frankfurt,Japan,3,1,Sweden,Japan,,45434,Carol Anne Chenard,178
+2011,16-Jul-11,Third Place,Rhein-Neckar-Arena,Sinsheim,Sweden,2,1,France,Sweden,,25475,Kari Seitz,179
+2011,17-Jul-11,Final,Waldstadion,Frankfurt,Japan,2,2,United States,Japan,Penalties,48817,Bibiana Steinhaus,180
+2015,6-Jun-15,Groups,Commonwealth Stadium,Edmonton,Canada,1,0,China,Canada,,53058,Kateryna Monzul,181
+2015,6-Jun-15,Groups,Commonwealth Stadium,Edmonton,New Zealand,0,1,Netherlands,Netherlands,,53058,Quetzalli Alvarado,182
+2015,11-Jun-15,Groups,Commonwealth Stadium,Edmonton,China,1,0,Netherlands,China,,35544,Yeimy Martinez,183
+2015,11-Jun-15,Groups,Commonwealth Stadium,Edmonton,Canada,0,0,New Zealand,Draw,,35544,Bibiana Steinhaus,184
+2015,15-Jun-15,Groups,Olympic Stadium,Montreal,Netherlands,1,1,Canada,Draw,,45420,Ri Hyang-ok,185
+2015,15-Jun-15,Groups,Investors Group Field,Winnipeg,China,2,2,New Zealand,Draw,,26191,Katalin Kulcsar,186
+2015,7-Jun-15,Groups,TD Place Stadium,Ottawa,Norway,4,0,Thailand,Norway,,20953,Anna-Marie Keighley,187
+2015,7-Jun-15,Groups,TD Place Stadium,Ottawa,Germany,10,0,Ivory Coast,Germany,,20953,Carol Anne Chenard,188
+2015,11-Jun-15,Groups,TD Place Stadium,Ottawa,Germany,1,1,Norway,Draw,,18987,Teodora Albon,189
+2015,11-Jun-15,Groups,TD Place Stadium,Ottawa,Ivory Coast,2,3,Thailand,Thailand,,18987,Margaret Domka,190
+2015,15-Jun-15,Groups,Investors Group Field,Winnipeg,Thailand,0,4,Germany,Germany,,26191,Gladys Lengwe,191
+2015,15-Jun-15,Groups,Moncton Stadium,Moncton,Ivory Coast,1,3,Norway,Norway,,7147,Salome di Iorio,192
+2015,8-Jun-15,Groups,BC Place,Vancouver,Cameroon,6,0,Ecuador,Cameroon,,25942,Katalin Kulcsar,193
+2015,8-Jun-15,Groups,BC Place,Vancouver,Japan,1,0,Switzerland,Japan,,25942,Lucila Venegas,194
+2015,12-Jun-15,Groups,BC Place,Vancouver,Switzerland,10,1,Ecuador,Switzerland,,31441,Rita Gani,195
+2015,12-Jun-15,Groups,BC Place,Vancouver,Japan,2,1,Cameroon,Japan,,31441,Pernilla Larsson,196
+2015,16-Jun-15,Groups,Investors Group Field,Winnipeg,Ecuador,0,1,Japan,Japan,,14522,Melissa Borjas,197
+2015,16-Jun-15,Groups,Commonwealth Stadium,Edmonton,Switzerland,1,2,Cameroon,Cameroon,,10177,Claudia Umpierrez,198
+2015,8-Jun-15,Groups,Investors Group Field,Winnipeg,Sweden,3,3,Nigeria,Draw,,31148,Ri Hyang-ok,199
+2015,8-Jun-15,Groups,Investors Group Field,Winnipeg,United States,3,1,Australia,United States,,31148,Claudia Umpierrez,200
+2015,12-Jun-15,Groups,Investors Group Field,Winnipeg,Australia,2,0,Nigeria,Australia,,32716,Stephanie Frappart,201
+2015,12-Jun-15,Groups,Investors Group Field,Winnipeg,United States,0,0,Sweden,Draw,,32716,Sachiko Yamagishi,202
+2015,16-Jun-15,Groups,BC Place,Vancouver,Nigeria,0,1,United States,United States,,52193,Kateryna Monzul,203
+2015,16-Jun-15,Groups,Commonwealth Stadium,Edmonton,Australia,1,1,Sweden,Draw,,10177,Lucila Venegas,204
+2015,9-Jun-15,Groups,Olympic Stadium,Montreal,Spain,1,1,Costa Rica,Draw,,10175,Salome di Iorio,205
+2015,9-Jun-15,Groups,Olympic Stadium,Montreal,Brazil,2,0,South Korea,Brazil,,10175,Esther Staubli,206
+2015,13-Jun-15,Groups,Olympic Stadium,Montreal,Brazil,1,0,Spain,Brazil,,28623,Carol Anne Chenard,207
+2015,13-Jun-15,Groups,Olympic Stadium,Montreal,South Korea,2,2,Costa Rica,Draw,,28623,Carina Vitulano,208
+2015,17-Jun-15,Groups,Moncton Stadium,Moncton,Costa Rica,0,1,Brazil,Brazil,,9543,Efthalia Mitsi,209
+2015,17-Jun-15,Groups,TD Place Stadium,Ottawa,South Korea,2,1,Spain,South Korea,,21562,Anna-Marie Keighley,210
+2015,9-Jun-15,Groups,Moncton Stadium,Moncton,France,1,0,England,France,,11686,Efthalia Mitsi,211
+2015,9-Jun-15,Groups,Moncton Stadium,Moncton,Colombia,1,1,Mexico,Draw,,11686,Therese Neguel,212
+2015,13-Jun-15,Groups,Moncton Stadium,Moncton,France,0,2,Colombia,Colombia,,13138,Qin Liang,213
+2015,13-Jun-15,Groups,Moncton Stadium,Moncton,England,2,1,Mexico,England,,13138,Anna-Marie Keighley,214
+2015,17-Jun-15,Groups,TD Place Stadium,Ottawa,Mexico,0,5,France,France,,21562,Sachiko Yamagishi,215
+2015,17-Jun-15,Groups,Olympic Stadium,Montreal,England,2,1,Colombia,England,,21562,Carol Anne Chenard,216
+2015,20-Jun-15,Round of 16,TD Place Stadium,Ottawa,Germany,4,1,Sweden,Germany,,22486,Bibiana Steinhaus,217
+2015,20-Jun-15,Round of 16,Commonwealth Stadium,Edmonton,China,1,0,Cameroon,China,,15958,Teodora Albon,218
+2015,21-Jun-15,Round of 16,Moncton Stadium,Moncton,Brazil,0,1,Australia,Australia,,12054,Salome di Iorio,219
+2015,21-Jun-15,Round of 16,Olympic Stadium,Montreal,France,3,0,South Korea,France,,15518,Anna-Marie Keighley,220
+2015,21-Jun-15,Round of 16,BC Place,Vancouver,Canada,1,0,Switzerland,Canada,,53855,Anna-Marie Keighley,221
+2015,22-Jun-15,Round of 16,TD Place Stadium,Ottawa,Norway,1,2,England,England,,19829,Esther Staubli,222
+2015,22-Jun-15,Round of 16,Commonwealth Stadium,Edmonton,United States,2,0,Colombia,United States,,19412,Stephanie Frappart,223
+2015,23-Jun-15,Round of 16,BC Place,Vancouver,Japan,2,1,Netherlands,Japan,,28717,Lucila Venegas,224
+2015,26-Jun-15,Quarter-finals,Olympic Stadium,Montreal,Germany,1,1,France,Germany,Penalties,24859,Carol Anne Chenard,225
+2015,26-Jun-15,Quarter-finals,TD Place Stadium,Ottawa,China,0,1,United States,United States,,24141,Carina Vitulano,226
+2015,27-Jun-15,Quarter-finals,Commonwealth Stadium,Edmonton,Australia,0,1,Japan,Japan,,19814,Kateryna Monzul,227
+2015,27-Jun-15,Quarter-finals,BC Place,Vancouver,England,2,1,Canada,England,,54027,Claudia Umpierrez,228
+2015,30-Jun-15,Semi-finals,Olympic Stadium,Montreal,United States,2,0,Germany,United States,,51176,Teodora Albon,229
+2015,1-Jul-15,Semi-finals,Commonwealth Stadium,Edmonton,Japan,2,1,England,Japan,,31467,Anna-Marie Keighley,230
+2015,4-Jul-15,Third Place,Commonwealth Stadium,Edmonton,Germany,0,1,England,England,Extra Time,21483,Ri Hyang-ok,231
+2015,5-Jul-15,Final,BC Place,Vancouver,United States,5,2,Japan,United States,,53341,Kateryna Monzul,232
+2019,7-Jun-19,Groups,Parc des Princes,Paris,France,4,0,South Korea,France,,45261,Claudia Umpierrez,233
+2019,8-Jun-19,Groups,Stade Auguste-Delaune,Reims,Norway,3,0,Nigeria,Norway,,11058,Kate Jacewicz,234
+2019,12-Jun-19,Groups,Stade des Alpes,Grenoble,Nigeria,2,0,South Korea,Nigeria,,11252,Anastasia Pustovoitova,235
+2019,12-Jun-19,Groups,Allianz Riviera,Nice,France,2,1,Norway,France,,34872,Bibiana Steinhaus,236
+2019,17-Jun-19,Groups,Roazhon Park,Rennes,Nigeria,0,1,France,France,,28267,Melissa Borjas,237
+2019,17-Jun-19,Groups,Stade Auguste-Delaune,Reims,South Korea,1,2,Norway,Norway,,13034,Marie-Soleil Beaudoin,238
+2019,8-Jun-19,Groups,Roazhon Park,Rennes,Germany,1,0,China,Germany,,15283,Marie-Soleil Beaudoin,239
+2019,8-Jun-19,Groups,Stade Oceane,Le Havre,Spain,3,1,South Africa,Spain,,12044,Maria Carvajal,240
+2019,12-Jun-19,Groups,Stade du Hainaut,Valenciennes,Germany,1,0,Spain,Germany,,20761,Kateryna Monzul,241
+2019,13-Jun-19,Groups,Parc des Princes,Paris,South Africa,0,1,China,China,,20011,Katalin Kulcsar,242
+2019,17-Jun-19,Groups,Stade de la Mosson,Montpellier,South Africa,0,4,Germany,Germany,,15502,Sandra Braz,243
+2019,17-Jun-19,Groups,Stade Oceane,Le Havre,China,0,0,Spain,Draw,,11814,Edina Alves Batista,244
+2019,9-Jun-19,Groups,Stade du Hainaut,Valenciennes,Australia,1,2,Italy,Italy,,15380,Melissa Borjas,245
+2019,9-Jun-19,Groups,Stade des Alpes,Grenoble,Brazil,3,0,Jamaica,Brazil,,17668,Riem Hussein,246
+2019,13-Jun-19,Groups,Stade de la Mosson,Montpellier,Australia,3,2,Brazil,Australia,,17032,Esther Staubli,247
+2019,14-Jun-19,Groups,Stade Auguste-Delaune,Reims,Jamaica,0,5,Italy,Italy,,12016,Anna-Marie Keighley,248
+2019,18-Jun-19,Groups,Stade des Alpes,Grenoble,Jamaica,1,4,Australia,Australia,,17402,Katalin Kulcsar,249
+2019,18-Jun-19,Groups,Stade du Hainaut,Valenciennes,Italy,0,1,Brazil,Brazil,,21669,Lucila Venegas,250
+2019,9-Jun-19,Groups,Allianz Riviera,Nice,England,2,1,Scotland,England,,13188,Jana Adamkova,251
+2019,10-Jun-19,Groups,Parc des Princes,Paris,Argentina,0,0,Japan,Draw,,25055,Stephanie Frappart,252
+2019,14-Jun-19,Groups,Roazhon Park,Rennes,Japan,2,1,Scotland,Japan,,13201,Lidya Tafesse,253
+2019,14-Jun-19,Groups,Stade Oceane,Le Havre,England,1,0,Argentina,England,,20294,Qin Liang,254
+2019,19-Jun-19,Groups,Allianz Riviera,Nice,Japan,0,2,England,England,,14319,Claudia Umpierrez,255
+2019,19-Jun-19,Groups,Parc des Princes,Paris,Scotland,3,3,Argentina,Draw,,28205,Ri Hyang-ok,256
+2019,10-Jun-19,Groups,Stade de la Mosson,Montpellier,Canada,1,0,Cameroon,Canada,,10710,Ri Hyang-ok,257
+2019,11-Jun-19,Groups,Stade Oceane,Le Havre,New Zealand,0,1,Netherlands,Netherlands,,10654,Edina Alves Batista,258
+2019,15-Jun-19,Groups,Stade du Hainaut,Valenciennes,Netherlands,3,1,Cameroon,Netherlands,,22423,Casey Reibelt,259
+2019,15-Jun-19,Groups,Stade des Alpes,Grenoble,Canada,2,0,New Zealand,Canada,,14856,Yoshimi Yamashita,260
+2019,20-Jun-19,Groups,Stade Auguste-Delaune,Reims,Netherlands,2,1,Canada,Netherlands,,19277,Stephanie Frappart,261
+2019,20-Jun-19,Groups,Stade de la Mosson,Montpellier,Cameroon,2,1,New Zealand,Cameroon,,8009,Kateryna Monzul,262
+2019,11-Jun-19,Groups,Roazhon Park,Rennes,Chile,0,2,Sweden,Sweden,,15875,Lucila Venegas,263
+2019,11-Jun-19,Groups,Stade Auguste-Delaune,Reims,United States,13,0,Thailand,United States,,18591,Laura Fortunato,264
+2019,16-Jun-19,Groups,Allianz Riviera,Nice,Sweden,5,1,Thailand,Sweden,,9354,Salima Mukansanga,265
+2019,16-Jun-19,Groups,Parc des Princes,Paris,United States,3,0,Chile,United States,,45594,Riem Hussein,266
+2019,20-Jun-19,Groups,Stade Oceane,Le Havre,Sweden,0,2,United States,United States,,22418,Anastasia Pustovoitova,267
+2019,20-Jun-19,Groups,Roazhon Park,Rennes,Thailand,0,2,Chile,Chile,,13567,Anna-Marie Keighley,268
+2019,22-Jun-19,Round of 16,Stade des Alpes,Grenoble,Germany,3,0,Nigeria,Germany,,17988,Yoshimi Yamashita,269
+2019,22-Jun-19,Round of 16,Allianz Riviera,Nice,Norway,1,1,Australia,Norway,Penalties,12229,Riem Hussein,270
+2019,23-Jun-19,Round of 16,Stade du Hainaut,Valenciennes,England,3,0,Cameroon,England,,20148,Qin Liang,271
+2019,23-Jun-19,Round of 16,Stade Oceane,Le Havre,France,2,1,Brazil,France,Extra Time,23965,Marie-Soleil Beaudoin,272
+2019,24-Jun-19,Round of 16,Stade Auguste-Delaune,Reims,Spain,1,2,United States,United States,,19633,Katalin Kulcsar,273
+2019,24-Jun-19,Round of 16,Parc des Princes,Paris,Sweden,1,0,Canada,Sweden,,38078,Kate Jacewicz,274
+2019,25-Jun-19,Round of 16,Stade de la Mosson,Montpellier,Italy,2,0,China,Italy,,17492,Edina Alves Batista,275
+2019,25-Jun-19,Round of 16,Roazhon Park,Rennes,Netherlands,2,1,Japan,Netherlands,,21076,Melissa Borjas,276
+2019,27-Jun-19,Quarter-finals,Stade Oceane,Le Havre,Norway,0,3,England,England,,21111,Lucila Venegas,277
+2019,28-Jun-19,Quarter-finals,Parc des Princes,Paris,France,1,2,United States,United States,,45595,Kateryna Monzul,278
+2019,29-Jun-19,Quarter-finals,Stade du Hainaut,Valenciennes,Italy,0,2,Netherlands,Netherlands,,22600,Claudia Umpierrez,279
+2019,29-Jun-19,Quarter-finals,Roazhon Park,Rennes,Germany,1,2,Sweden,Sweden,,25301,Stephanie Frappart,280
+2019,2-Jul-19,Semi-finals,Parc Olympique Lyonnais,Decines-Charpieu,England,1,2,United States,United States,,53512,Edina Alves Batista,281
+2019,3-Jul-19,Semi-finals,Parc Olympique Lyonnais,Decines-Charpieu,Netherlands,1,0,Sweden,Netherlands,Extra Time,48452,Marie-Soleil Beaudoin,282
+2019,6-Jul-19,Third Place,Allianz Riviera,Nice,England,1,2,Sweden,Sweden,,20316,Anastasia Pustovoitova,283
+2019,7-Jul-19,Final,Parc Olympique Lyonnais,Decines-Charpieu,United States,2,0,Netherlands,United States,,57900,Stephanie Frappart,284
